@@ -1,4 +1,5 @@
 module.exports = {
+  database: 'gobarber',
   dialect: 'postgres',
   host: 'localhost',
   username: 'postgres',
